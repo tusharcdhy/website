@@ -1,0 +1,32 @@
+body{
+  background-color: #EEEDDE;
+}
+hr{
+  border-style: none;
+  width: 7%;
+  border-top: 5px;
+  border-top-style: dotted;
+  border-color: #D3D3D3;
+}
+
+.github{
+  text-decoration: none;
+  color: Black
+}
+.contactme{
+  text-decoration: none;
+  color: Gray;
+}
+.contactme:hover{
+  color: green;
+}
+.github:hover{
+  color: green;
+}
+#lin:hover{
+  color: green;
+}
+#lin{
+  text-decoration: none;
+  color: Blue
+}
